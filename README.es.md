@@ -1,9 +1,18 @@
 <h1 align="center">
+<<<<<<< HEAD
  Coming Soon
+=======
+ Astro Theme OpenBLOG
+>>>>>>> parent of 812d19d (inital)
 </h1>
 
 <div align="center">
 
+<<<<<<< HEAD
+=======
+<img src="public/project.jpg" alt="Screenshot" />
+
+>>>>>>> parent of 812d19d (inital)
 <hr/>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdanielcgilibert%2Fblog-template)

@@ -1,11 +1,15 @@
 <div align="center">
-# Sanity Esports - Coming Soon
+
+<img src="public/project.png" alt="Screenshot" />
 
 <hr/>
 
 <h3 align="center">
  ⭐ Leave a star if you like this project! ⭐️
 </h3>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdanielcgilibert%2Fblog-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielcgilibert/blog-template)
 
 </div>
 
@@ -27,7 +31,7 @@
 
 ## 💻 Demo
 
-[Link](https://sanityesports.live), hosted on Vercel
+Check out the [Demo](https://blog-template-gray.vercel.app/), hosted on Vercel
 <br/>
 
 https://github.com/danielcgilibert/blog-template/assets/44746462/56b8399e-cc5b-45a8-b9d2-d69833ecadb1
@@ -201,3 +205,9 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run format`       | Format codes with Prettier                                                                                                       |
 | `pnpm run sync`         | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
 | `pnpm run lint`         | Lint with ESLint                                                                                                                 |
+
+## 👋 Contributors
+
+<a href="https://github.com/danielcgilibert/blog-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=danielcgilibert/blog-template" />
+</a>
